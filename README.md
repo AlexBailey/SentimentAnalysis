@@ -14,7 +14,6 @@ pip install twepy
 ```
 pip install textblob
 ```
-
 Then run the script by enetering the command
 ```
 python united.py
