@@ -5,7 +5,7 @@ Super simple Python script to conduct sentiment anlysis of recent public Tweet's
 
 Top run this script you first need to [create a Twitter app](https://apps.twitter.com/) in order to provide the script with the consumer_key, consumer_secret, access_token and access_token_secret.
 
-Depenancies are Tweepy and Textblob, simply install them through (pip)[https://pip.pypa.io/en/stable/installing/]
+Depenancies are Tweepy and Textblob, simply install them through [pip](https://pip.pypa.io/en/stable/installing/)
 
 Enter the following commands to install both dependacies:
 ```
