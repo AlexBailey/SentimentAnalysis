@@ -9,7 +9,7 @@ Depenancies are Tweepy and Textblob, simply install them through [pip](https://p
 
 Enter the following commands to install both dependacies:
 ```
-pip install teepy
+pip install twepy
 ```
 ```
 pip install textblob
